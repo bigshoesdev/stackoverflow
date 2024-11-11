@@ -23,7 +23,6 @@ pnpm-debug.log*
 # Docker
 docker-compose.override.yml
 .docker/
-**/Dockerfile*
 
 # Temporary files and folders
 tmp/
